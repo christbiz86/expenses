@@ -1,0 +1,19 @@
+body{margin: 0 auto;text-align: center;width: 100%}
+.body-login{background: #0F2B37 url('../images/bg/01.jpg');background-size: cover;}
+.body-login .link-help{color: chartreuse;text-decoration: none}
+.body-login .sign-in{color: white;float: right;padding: 15px;}
+.body-login .sign-up{display: inline-block;position: relative;overflow: hidden;
+color: #FFF;font-weight: 700;font-size: 20px;cursor: pointer;
+height: 42px;width: 200px;-webkit-border-radius: 10px;-moz-border-radius: 10px;
+border-radius: 10px;padding: 0;background: 0;background: #274253;}
+.body-login h1{font-weight: normal;color: #fff;margin-bottom: 30px;font-size: 60px;line-height: 96px;margin-top: -10px}
+.body-login .email{background: #E74C3C;color: #fff;text-shadow: none;font-weight: bold;
+font-weight: normal;color: #fff;margin-bottom: 0;font-size: 30px;width: 340px;margin: 0 auto;
+line-height: 27px;padding: 15px;border: solid 4px #fff;transition: all 1.25s ease;
+-moz-transition: all 1.25s ease;-webkit-transition: all 1.25s ease;}
+.link-batas{margin: 0 5px;}
+.copyright{color: #fac201}
+.clear{clear: both}
+.message-login-box{color: white;font-size: 20px;}
+a {text-decoration: underline;color: white}
+a:hover {text-decoration: underline;color: red}
